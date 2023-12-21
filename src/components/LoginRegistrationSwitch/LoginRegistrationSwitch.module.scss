@@ -1,0 +1,13 @@
+.switchBlock {
+    display: flex;
+    align-items: center;
+    grid-gap: 10px;
+}
+
+.switchButton {
+    background: none;
+    border: none;
+    color: grey;
+    font-size: 13px;
+    cursor: pointer;
+}
